@@ -1,6 +1,6 @@
 jQuery Knob
 =============
-
+-test
 - canvas based ; no png or jpg sprites.
 - touch, mouse and mousewheel, keyboard events implemented.
 - downward compatible ; overloads an input element.
